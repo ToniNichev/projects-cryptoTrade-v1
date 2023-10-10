@@ -1,0 +1,6 @@
+
+{"barData":{"priceBars":[{"price":"247.38","tradeTime":"2020-02-10T21:49:34.449775Z","trend":0},{"price":"221.69","tradeTime":"2020-02-10T21:49:46.730106Z","trend":-1},{"price":"221.68","tradeTime":"2020-02-10T21:49:46.783990Z","trend":-1},{"price":"221.58","tradeTime":"2020-02-10T21:49:46.843773Z","trend":-1},{"price":"230.77","tradeTime":"2020-02-10T21:49:50.204221Z","trend":1},{"price":"226.06","tradeTime":"2020-02-10T21:49:50.500607Z","trend":-1},{"price":"221.59","tradeTime":"2020-02-10T21:49:53.407019Z","trend":-1},{"price":"210.13","tradeTime":"2020-02-10T21:49:59.056986Z","trend":-1},{"price":"225.97","tradeTime":"2020-02-10T21:50:00.068211Z","trend":1},{"price":"221.6","tradeTime":"2020-02-10T21:50:05.471260Z","trend":-1},{"price":"221.61","tradeTime":"2020-02-10T21:50:06.016326Z","trend":1},{"price":"221.63","tradeTime":"2020-02-10T21:50:06.016326Z","trend":2},{"price":"225.99","tradeTime":"2020-02-10T21:50:06.016326Z","trend":3}]},"trades":[],"system":{ 
+                "startTime": "Mon Feb 10 2020 16:49:30 GMT-0500 (EST)",
+                "wallet": {"funds":1000,"shares":0,"transactionsList":[],"finalTrend":"","sharePrice":225.99}
+              }
+    }
